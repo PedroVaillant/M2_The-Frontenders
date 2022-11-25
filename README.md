@@ -1,5 +1,4 @@
 # Resilia Front Enders
-<img src="https://images.unsplash.com/photo-1634128221889-82ed6efebfc3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="500px" height="300px"/>
 <h1>⚪🔴🟠 Front Enders - Site de linguas estrangeiras 🟡🟢🔵</h1>
 
 ## Sobre o projeto
@@ -24,9 +23,6 @@
 <img align="center" src="https://img.shields.io/badge/-Bootstrap-purple" width="60"/>
 <p><i>🟪Estilos da pagina com o bootstrap</i><p>
 </div>
-
-
-<img src="https://images.unsplash.com/photo-1634128221889-82ed6efebfc3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="500px" height="300px"/>
 
 
 https://pedrovaillant.github.io/M2_Front-Enders/
