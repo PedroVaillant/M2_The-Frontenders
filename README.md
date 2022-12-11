@@ -1,28 +1,30 @@
-# Resilia Front Enders
-<h1>⚪🔴🟠 Front Enders - Site de linguas estrangeiras 🟡🟢🔵</h1>
+# 📚 Projeto em grupo da Resilia - Front Enders
+rojeto em grupo do segundo módulo, do curso Programadores Cariocas junto com a Resilia. A ideia e criar um site para uma empresa fictícia chamada Front Enders, no qual e um site de lingua estrangeiras.
 
-## Sobre o projeto
-<a>🟤Objetivo Hard Skill: Criar uma pagina de um produto para uma empresa ficticia usando as ferramentas pedidas: Bootstrap, javascript, css, html, API</i>
-<p><a>🟣Objetivo Soft Skill:Criar PITCH e uma apresentar o produto</a>
-
-## Soft
-<h3>🟫Sobre a empresa⬜</h3>
-<a>Nossa empresa foi fundada em meados do ano de 2020. Um projeto que vinha sendo elaborado a algum tempo, ponderando trazer mais praticidade para atender um público totalmente conectado. Essa geração Z que vive com o celular à mão e gosta de estar totalmente online. O segundo idioma hoje é muito solicitado na vida, mas principalmente no mercado de trabalho.</a>
-<h3>🟥Produto🟩</h3>
-<a>Com boa parte da vida parada ou com uma demanda de tarefas menor, por que não aproveitar o tempo livre para aprender no conforto da sua casa? Por isso o Front Enders desenvolveu a plataforma de Cursos Linguísticos Online.</a>
+### 📖 Sobre a empresa
+Nossa empresa foi fundada em meados do ano de 2020. Um projeto que vinha sendo elaborado a algum tempo, ponderando trazer mais praticidade para atender um público totalmente conectado. Essa geração Z que vive com o celular à mão e gosta de estar totalmente online. O segundo idioma hoje é muito solicitado na vida, mas principalmente no mercado de trabalho.
 
 
-## Hard ⚒
-<div style="display: inline_block">
-<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="60"/>
-<p><i>🟨Foi usado para fazer o processo como cadastro, notificar, API do CEP</i><p>
-<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="60"/>
-<p><i>🟧Necessario para criar a pagina</i><p>
-<img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" width="60"/>
-<p><i>🟦Estilos</i><p>
-<img align="center" src="https://img.shields.io/badge/-Bootstrap-purple" width="60"/>
-<p><i>🟪Estilos da pagina com o bootstrap</i><p>
+## 💻 Tecnologias utilizadas
+<div align="center" style="display: inline_block">
+No nosso projeto, foram utilizados HTML5, CSS3, Javascript e o Bootstrap
+<br>
+<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 
-https://pedrovaillant.github.io/M2_Front-Enders/
+## 👥 Membros do grupo
+* <a href="https://github.com/AlexProgramadorS"><img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><a> Alex Sandro Aguilar Guerrero Sarmento
+* <a href="https://github.com/DaviJust"><img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><a> Davi Justino Marques Couto 
+* <a href="https://github.com/JoaoOcho"><img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><a> Lucas Verisimo Sales
+* <a href="https://github.com/PedroVaillant"><img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><a> Pedro Henrique dos Santos Vaillant
+
+---
+
+![image](https://user-images.githubusercontent.com/113939119/206884042-815ef42d-aebc-486b-b6e5-c8af4fd7514b.jpeg)
+
+---          
+🌐 Link para acessar o projeto: https://pedrovaillant.github.io/M2_Front-Enders/
