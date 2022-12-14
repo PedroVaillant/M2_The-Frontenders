@@ -5,7 +5,7 @@ rojeto em grupo do segundo módulo, do curso Programadores Cariocas junto com a 
 Nossa empresa foi fundada em meados do ano de 2020. Um projeto que vinha sendo elaborado a algum tempo, ponderando trazer mais praticidade para atender um público totalmente conectado. Essa geração Z que vive com o celular à mão e gosta de estar totalmente online. O segundo idioma hoje é muito solicitado na vida, mas principalmente no mercado de trabalho.
 
 
-## 💻 Tecnologias utilizadas
+### 💻 Tecnologias utilizadas
 <div align="center" style="display: inline_block">
 No nosso projeto, foram utilizados HTML5, CSS3, Javascript e o Bootstrap
 <br>
