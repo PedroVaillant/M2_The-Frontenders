@@ -1,4 +1,4 @@
-# 📚 Projeto em grupo da Resilia - Front Enders
+# 📚 Projeto em grupo - The Frontenders
 rojeto em grupo do segundo módulo, do curso Programadores Cariocas junto com a Resilia. A ideia e criar um site para uma empresa fictícia chamada Front Enders, no qual e um site de lingua estrangeiras.
 
 ### 📖 Sobre a empresa
