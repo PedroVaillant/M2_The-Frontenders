@@ -23,7 +23,7 @@ Nossa empresa foi fundada em meados do ano de 2020. Um projeto que vinha sendo e
 
 ---
 
-![image](https://user-images.githubusercontent.com/113939119/206884042-815ef42d-aebc-486b-b6e5-c8af4fd7514b.jpeg)
+<a href="https://pedrovaillant.github.io/M2_Front-Enders/">![image](https://user-images.githubusercontent.com/113939119/206884042-815ef42d-aebc-486b-b6e5-c8af4fd7514b.jpeg)<a>
 
 ---          
 🌐 Link para acessar o projeto: https://pedrovaillant.github.io/M2_Front-Enders/
