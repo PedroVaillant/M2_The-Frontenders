@@ -7,8 +7,6 @@ Nossa empresa foi fundada em meados do ano de 2020. Um projeto que vinha sendo e
 
 ### 💻 Tecnologias utilizadas
 <div align="center" style="display: inline_block">
-No nosso projeto, foram utilizados HTML5, CSS3, Javascript e o Bootstrap
-<br>
 <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
