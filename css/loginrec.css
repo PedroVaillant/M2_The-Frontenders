@@ -7,8 +7,12 @@ html {
   font-family: 'Jost', sans-serif;
   text-align: center;
   height: 100%;
-
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
+
 
 /* Barra de navegação */
 .navbar-brand img {
@@ -71,8 +75,7 @@ div.transbox {
   height: 500px;
   opacity: 1;
   margin-left: 340px;
-  box-shadow: 5px 5px #888888;
-  border-radius: 25px;
+  border-radius: 44px;
 
 }
 
@@ -87,23 +90,13 @@ div.transbox {
 .tituloRecuperar {
   padding-top: 25px;
   color: black;
-  font-size: 38px;
+  font-size: 40px;
   text-align: center;
 }
 
 .form-control2 {
   color: rgb(0, 0, 0);
   font-size: 25px;
-}
-
-body {
-  background-color: #1952BF !important;
-  font-family: 'Jost', sans-serif !important;
-  display: flex;
-  align-items: center;
-  padding-top: 40px;
-  padding-bottom: 40px;
-
 }
 
 header {
