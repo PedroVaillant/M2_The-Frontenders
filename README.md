@@ -27,6 +27,7 @@ Nossa empresa foi fundada em meados do ano de 2020. Um projeto que vinha sendo e
 <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=">
 </div>
 
+<br>
 
 ## 👥 Membros do grupo
 * <a href="https://github.com/AlexProgramadorS"><img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><a> Alex Sandro Aguilar Guerrero Sarmento
