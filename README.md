@@ -4,6 +4,7 @@
 #### Projeto em grupo do segundo módulo, do curso Programadores Cariocas junto com a Resilia e SENAC.
 
 </div>
+
 <br>
 
 ## 📰 Sobre o Projeto:
@@ -11,7 +12,9 @@ A trabalho proposto para nós nesse projeto, foi de criar site para uma empresa 
 
 ### 📖 Sobre a empresa
 Nossa empresa foi fundada em meados do ano de 2020. Um projeto que vinha sendo elaborado a algum tempo, ponderando trazer mais praticidade para atender um público totalmente conectado. Essa geração Z que vive com o celular à mão e gosta de estar totalmente online. O segundo idioma hoje é muito solicitado na vida, mas principalmente no mercado de trabalho.
+
 <br>
+
 <a href="https://pedrovaillant.github.io/M2_Front-Enders/">![image](https://user-images.githubusercontent.com/113939119/206884042-815ef42d-aebc-486b-b6e5-c8af4fd7514b.jpeg)<a>
 
 ---
