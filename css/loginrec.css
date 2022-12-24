@@ -65,7 +65,7 @@ footer {
 /* ================================================= Configurações das páginas Login/Senha ========================================================== */
 
 div.transbox {
-  background-image: url("/img/registroLogin2.jpg");
+  background-color: white;
   margin: 30px;
   width: 752px;
   height: 500px;
