@@ -8,7 +8,7 @@
 <br>
 
 ## 📰 Sobre o Projeto:
-A trabalho proposto para nós nesse projeto, foi de criar site para uma empresa fictícia chamada “Frontenders”, no qual ele e focado em línguas estrangeiras. Para que pudéssemos concluir esse projeto, tivemos alguns requisitos por exemplo: Usar CSS Bootstrap, API ViaCEP, e criar 6 páginas (inicial, serviços, cadastro, login, recuperação de senha e contato) e utilizar o GithubPage.
+O trabalho proposto para nós nesse projeto, foi de criar site para uma empresa fictícia chamada “Frontenders”, no qual ele e focado em línguas estrangeiras. Para que pudéssemos concluir esse projeto, tivemos alguns requisitos por exemplo: Usar CSS Bootstrap, API ViaCEP, e criar 6 páginas (inicial, serviços, cadastro, login, recuperação de senha e contato) e utilizar o GithubPage.
 
 ### 📖 Sobre a empresa
 Nossa empresa foi fundada em meados do ano de 2020. Um projeto que vinha sendo elaborado a algum tempo, ponderando trazer mais praticidade para atender um público totalmente conectado. Essa geração Z que vive com o celular à mão e gosta de estar totalmente online. O segundo idioma hoje é muito solicitado na vida, mas principalmente no mercado de trabalho.
