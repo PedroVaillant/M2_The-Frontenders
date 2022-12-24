@@ -7,7 +7,8 @@ html {
     background-color: #1952BF;
     color: white;
     font-family: 'Jost', sans-serif;
-    text-align: center;
+    text-align: center; 
+    margin-top: 58px;
 }
 
 /* Barra de navegação */
@@ -63,102 +64,87 @@ footer {
 
 }
 
-/* ================================================= Configurações das páginas Cadastro/Contato ========================================================== */
+/* ================================================= Configurações da página Cadastre-se ========================================================== */
 
 h1 {
-    font-weight: bold;
-}
-
-div.container {
-    position: relative;
+    padding: 25px;
+    font-size: 50px;
 }
 
 .text-center{
-padding-left: 200px;
+margin: 0 50px 0 50px;
+}
+
+div.transbox {
+   
+    background-color: #113780;
+    border-radius: 15px;
 }
 
 /* Spans */
 .span-required {
-    font-size: 12px;
-    margin: 3px 0 0 1px;
-    color: var(--color-red);
+    font-size: 22px;
     display: none;
-    font-weight: bold;
-}
-
-.container {
-    display: flex;
-    align-items: center;
-    padding-top: 10%;
-    padding-bottom: 5%;
-    width: 40%;
 }
 
 label {
     font-weight: bold;
-}
-
-#rg {
-    margin-top: 8px
+    font-size: 25px;
 }
 
 .btn {
-    color: white;
+    color: black;
     background-color: #97ADFF;
-    border-radius: 10px;
-}
-
-div.transbox {
-    margin-top: 140px;
-    background-color: #113780;
-    opacity: 1;
-    box-shadow: 5px 5px #888888;
-    border-radius: 25px;
-
-}
-
-.respect {
-    width: 700px;
-    margin-left: 180px;
-
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    transition: 1s;
+    margin: 0 0 25px;
 }
 
 .form-group {
     display: flex;
     flex-direction: column;
-    width: 400px;
+    width: 1540px;
     height: 100px;
+    padding: 0 80px 0 80px;
 }
 
 .form-group2 {
     align-content: space-between;
     width: 400px;
     height: 100px;
+    margin: 0 50px 0 50px;
 }
 
-/* Flex Item */
-.item {
-    top: 40px;
+#CPF{
+    margin: 7px 1px;
 }
 
-.iconesContato {
+input{
+    text-align: center;
+    
+}
+/* ================================================= Configurações da página Fale Conosco ========================================================== */
+
+#faleconosco .iconesContato {
     width: 40px;
 }
 
-#contatos {
+#faleconosco {
     padding: 14px;
     font-size: 30px;
     text-align: center;
 }
 
-h2 {
+#faleconosco h2 {
     text-align: center;
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 30px;
     margin-left: 25px;
+    text-transform: uppercase;
 }
 
-.links {
+#faleconosco .links {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
