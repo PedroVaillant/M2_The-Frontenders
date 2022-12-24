@@ -7,7 +7,7 @@
 
 <br>
 
-## 📰 Sobre o Projeto:
+## 📰 Sobre o Projeto
 O trabalho proposto para nós nesse projeto, foi de criar site para uma empresa fictícia chamada “Frontenders”, no qual ele e focado em línguas estrangeiras. Para que pudéssemos concluir esse projeto, tivemos alguns requisitos por exemplo: Usar CSS Bootstrap, API ViaCEP, e criar 6 páginas (inicial, serviços, cadastro, login, recuperação de senha e contato) e utilizar o GithubPage.
 
 ### 📖 Sobre a empresa
