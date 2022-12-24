@@ -282,3 +282,86 @@ footer {
     box-shadow: 0 0.6rem 1.6rem #ED193F;
 }
 
+/* ================================================= Configurações da página Cadastre-se ========================================================== */
+
+.h1cadastro {
+    padding: 25px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.text-center{
+margin: 0 50px 0 50px;
+}
+
+div.transbox {
+    background-color: #113780;
+    border-radius: 15px;
+}
+
+/* Spans */
+.span-required {
+    font-size: 22px;
+    display: none;
+}
+
+.form-label {
+    font-size: 25px;
+}
+
+.btn {
+    color: black;
+    background-color: #97ADFF;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    transition: 1s;
+    margin: 0 0 25px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    width: 1540px;
+    height: 100px;
+    padding: 0 80px 0 80px;
+}
+
+.form-group2 {
+    align-content: space-between;
+    width: 400px;
+    height: 100px;
+    margin: 0 50px 0 50px;
+}
+
+#CPF{
+    margin: 7px 1px;
+}
+
+.form-control{
+    text-align: center;
+}
+
+/* ================================================= Configurações da página Fale Conosco ========================================================== */
+
+#faleconosco .iconesContato {
+    width: 40px;
+}
+
+#faleconosco {
+    padding: 14px;
+    font-size: 30px;
+    text-align: center;
+}
+
+#faleconosco h2 {
+    text-align: center;
+    font-size: 30px;
+    margin-left: 25px;
+    text-transform: uppercase;
+}
+
+#faleconosco .links {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
