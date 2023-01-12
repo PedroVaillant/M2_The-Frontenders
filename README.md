@@ -1,4 +1,4 @@
-# 📚 Projeto em grupo - The Frontenders
+# 📚 Projeto: The Frontenders
 <div align="center" style="display: inline_block">
 
 #### Projeto em grupo do segundo módulo, do curso Programadores Cariocas junto com a Resilia e SENAC.
