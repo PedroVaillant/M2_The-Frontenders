@@ -1,7 +1,7 @@
 # 📚 Projeto: The Frontenders
 <div align="center" style="display: inline_block">
 
-#### Projeto em grupo do segundo módulo, do curso Programadores Cariocas junto com a Resilia e SENAC.
+#### Projeto em grupo do 2º módulo, do curso Full-Stack Programadores Cariocas junto com a Resilia e SENAC.
 
 </div>
 
